@@ -13,6 +13,7 @@ The template comes configured with:
 * Clone the project
 * cd into the cloned project
 * Run: `bundle install` which will install the RSpec and Mocha gems
+* On the command line run: `rspec` if all goes well the one spec should pass
 
 **Create new test specifications (specs)**
 * Spec files should be placed in `spec/lib`
